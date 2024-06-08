@@ -9,7 +9,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-<div align="left">
+<div align="center">
  
  
  🌱 I’m currently learning **DevOps**
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<h2 align="center"> 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="center"> 🛠️ My Skills 🛠️ </h2>
 
 
 <div align="center">
