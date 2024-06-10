@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align="center">
  
  
- 🌱 I’m currently learning **DevOps**
+ 🌱 I’m currently learning **AI**
 
  💻 Studies at University of Ruhuna
 
