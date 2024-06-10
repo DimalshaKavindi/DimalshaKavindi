@@ -2,7 +2,7 @@
 ![canva banner my](https://github.com/DimalshaKavindi/DimalshaKavindi/assets/139705921/937cf50a-9d0e-4192-93e6-56820326260c)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimalsha+Kavindi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimalsha+Kavindi;" />
 </h1>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
@@ -73,4 +73,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+visiting+my+GitHub+Profile+!+😊...&center=true&width=700&height=45">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+visiting+my+GitHub+Profile+!+...&center=true&width=700&height=45">
