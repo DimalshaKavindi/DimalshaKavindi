@@ -13,11 +13,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
  💻 Studies at University of Ruhuna
 
- 🌟 I'm particularly interested in web development, mobile app development, and UI/UX
-
  💬 Ask me about **MERN**
 
  📫 How to reach me **dimalshakavindi2020@gmail.com** 
+
+ 🌟 I'm particularly interested in web development, mobile app development, and UI/UX.
 
  </div>
  
