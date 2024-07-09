@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
  💻 Studies at University of Ruhuna
 
- 🌟 I'm particularly interested in web development, mobile app development, and UI/UX. I enjoy exploring new technologies and continuously improving my skillset
+ 🌟 I'm particularly interested in web development, mobile app development, and UI/UX
 
  💬 Ask me about **MERN**
 
