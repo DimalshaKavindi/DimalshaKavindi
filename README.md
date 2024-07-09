@@ -11,12 +11,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="center">
  
- 
- 🌱 I’m currently learning **AI**
-
  💻 Studies at University of Ruhuna
 
- 🌟 I'm particularly interested in web development, mobile app development, and data science. I enjoy exploring new technologies and continuously improving my skillset.
+ 🌟 I'm particularly interested in web development, mobile app development, and UI/UX. I enjoy exploring new technologies and continuously improving my skillset
+
+ 💬 Ask me about **MERN**
+
+ 📫 How to reach me **dimalshakavindi2020@gmail.com** 
 
  </div>
  
