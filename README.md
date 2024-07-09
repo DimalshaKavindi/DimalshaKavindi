@@ -9,7 +9,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
-<div align="center">
+<div align="left">
  
  💻 Studies at University of Ruhuna
 
