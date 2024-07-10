@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
  📫 How to reach me **dimalshakavindi2020@gmail.com** 
 
- 🌟 I'm particularly interested in web development, mobile app development, and UI/UX.
+ 🌟 I'm particularly interested in web development, mobile app development, UI/UX and Machine Learning.
 
  </div>
  
