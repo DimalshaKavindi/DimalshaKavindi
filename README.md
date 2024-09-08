@@ -12,12 +12,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="left">
  
-- 🏬 I’m currently working at Spring Technologies
 - 💻 Studies at University of Ruhuna
+- 🏬 I’m currently working at Spring Technologies
 - 📫 How to reach me [dimalshakavindi2020@gmail.com](mailto:dimalshakavindi2020@gmail.com)
 - 📌 linkedin - [Dimalsha Kavindi](https://www.linkedin.com/in/dimalsha-kavindi-814395210/)
-- 🌟 I’m currently focused on expanding my knowledge and skills in Web and Mobile Development. My current projects involve Flutter and MERN stack applications, and I am always exploring new technologies and methodologies.
-
+- 🌟 I’m focused on expanding my skills in Web and Mobile Development, working on projects using Flutter and the MERN stack. I enjoy exploring new technologies and improving my knowledge to build better applications.
  </div>
  
  [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
