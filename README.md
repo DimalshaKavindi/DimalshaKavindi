@@ -12,10 +12,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="left">
  
-- 🏬 I’m currently working at Boffo System Labs.
+- 🏬 I’m currently working at Spring Technologies.
 - 💻 Studies at University of Ruhuna
-- 📫 How to reach me **dimalshakavindi2020@gmail.com**(mailto:dimalshakavindi2020@gmail.com)
-- 📌 linkedin - **https://www.linkedin.com/in/dimalsha kavindi**
+- 📫 How to reach me [dimalshakavindi2020@gmail.com](mailto:dimalshakavindi2020@gmail.com)
+- 📌 linkedin - [Dimalsha Kavindi](https://www.linkedin.com/in/dimalsha-kavindi/)
 - 🌟 I’m currently focused on expanding my knowledge and skills in Web and Mobile Development. My current projects involve Flutter and MERN stack applications, and I am always exploring new technologies and methodologies.
 
  </div>
@@ -48,7 +48,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimalshakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimalshakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,TypeScript,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell"/>
+  
   
   </td>
 </tr>
