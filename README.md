@@ -8,16 +8,15 @@
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=dimalshakavindi&label=Profile%20views&color=0e75b6&style=flat" alt="dimalsha" /> </p>
 
 <div align="left">
  
- 💻 Studies at University of Ruhuna
-
- 💬 Ask me about **MERN**
-
- 📫 How to reach me **dimalshakavindi2020@gmail.com** 
-
- 🌟 I'm particularly interested in web development, mobile app development, UI/UX and Machine Learning.
+- 🏬 I’m currently working at Boffo System Labs.
+- 💻 Studies at University of Ruhuna
+- 📫 How to reach me **dimalshakavindi2020@gmail.com**(mailto:dimalshakavindi2020@gmail.com)
+- 📌 linkedin - **https://www.linkedin.com/in/dimalsha kavindi**
+- 🌟 I’m currently focused on expanding my knowledge and skills in Web and Mobile Development. My current projects involve Flutter and MERN stack applications, and I am always exploring new technologies and methodologies.
 
  </div>
  
@@ -49,7 +48,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamindu77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimalshakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
