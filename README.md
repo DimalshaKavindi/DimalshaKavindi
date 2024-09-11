@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,tailwind,git,flutter,python,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,java,cpp,mysql,figma,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,android,firebase,mongodb,java,cpp,mysql,figma" /><br>
 </div>
 
 <br/>
