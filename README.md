@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,tailwind,git,flutter" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,java,cpp,mysql,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,tailwind,git,flutter,python,postgresql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,java,cpp,mysql,figma,mysql" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimalshakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter%20Notebook,PureBasic,Ruby,PHP,Go,Shell,TypeScript,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimalshakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter%20Notebook,PureBasic,Ruby,Go,Shell,Rust,Kotlin,Swift,Perl,Scala,Elixir,Haskell,PowerShell"/>
   
   
   </td>
