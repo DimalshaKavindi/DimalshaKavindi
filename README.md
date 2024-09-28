@@ -2,7 +2,7 @@
 ![canva banner my](https://github.com/DimalshaKavindi/DimalshaKavindi/assets/139705921/937cf50a-9d0e-4192-93e6-56820326260c)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimalsha+Kavindi;" />
+    Hi 👋, I'm Dimalsha Kavindi
 </h1>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
@@ -13,7 +13,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align="left">
  
 - 💻 Studies at University of Ruhuna
-- 🏬 I’m currently working at Spring Technologies
+- 🔭 I’m currently working on Mobile app develoment and DevOps
+- 🌱 I’m currently learning **DevOps**
 - 📫 How to reach me [dimalshakavindi2020@gmail.com](mailto:dimalshakavindi2020@gmail.com)
 - 📌 linkedin - [Dimalsha Kavindi](https://www.linkedin.com/in/dimalsha-kavindi-814395210/)
 - 🌟 I’m focused on expanding my skills in Web and Mobile Development, working on projects using Flutter and the MERN stack. I enjoy exploring new technologies and improving my knowledge to build better applications.
@@ -40,8 +41,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dimalshakavindi?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dimalshakavindi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimalshakavindi&theme=dark&hide_border=false" /> 
 </td>
@@ -67,8 +68,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 </div>
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Thank+You+for+visiting+my+GitHub+Profile+!+...&center=true&width=700&height=45">
