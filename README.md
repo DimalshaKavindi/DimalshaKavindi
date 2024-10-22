@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <tr border="none">
 <td width="50%" align="center">
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dimalshakavindi?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dimalshakavindi?cardType=level&theme=darkt&preferLogin=false)](https://git.io/awesome-stats-card)
   
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimalshakavindi&theme=dark&hide_border=false" /> 
 </td>
