@@ -1,5 +1,4 @@
-
-![canva banner my](https://github.com/DimalshaKavindi/DimalshaKavindi/assets/139705921/937cf50a-9d0e-4192-93e6-56820326260c)
+<img width="850" height="396" alt="Brown and White Simple Personal LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/bd829051-76df-43b2-b93d-c773cf857a07" />
 
 <h1 align="center">
     Hi 👋, I'm Dimalsha Kavindi
