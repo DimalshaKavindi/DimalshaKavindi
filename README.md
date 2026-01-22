@@ -12,12 +12,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="left">
  
-- 💻 Studies at University of Ruhuna
-- 🔭 I’m currently working on Mobile app develoment and DevOps
-- 🌱 I’m currently learning **DevOps**
-- 📫 How to reach me [dimalshakavindi2020@gmail.com](mailto:dimalshakavindi2020@gmail.com)
+- 🎓 Computer Engineering Graduate from the Faculty of Engineering, University of Ruhuna
+- 💻 Software Engineer | Full-Stack Developer | AI-Driven Systems Enthusiast
+- 📫 How to reach me [dimalshaliyanagama@gmail.com](mailto:dimalshaliyanagama@gmail.com)
 - 📌 linkedin - [Dimalsha Kavindi](https://www.linkedin.com/in/dimalsha-kavindi-814395210/)
-- 🌟 I’m focused on expanding my skills in Web and Mobile Development, working on projects using Flutter and the MERN stack. I enjoy exploring new technologies and improving my knowledge to build better applications.
+- 🌟 Passionate about developing modern web and mobile applications and continuously learning new technologies to deliver high-quality software solutions.
  </div>
  
  [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
