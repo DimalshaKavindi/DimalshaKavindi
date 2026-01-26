@@ -11,9 +11,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
 - 🎓 Computer Engineering Graduate from the Faculty of Engineering, University of Ruhuna
 - 💻 Software Engineer | Full-Stack Developer | AI-Driven Systems Enthusiast
+- 🌐 Portfolio: [https://your-portfolio-link.vercel.app](https://dimalsha-kavindi.vercel.app/)
 - 📫 How to reach me [dimalshaliyanagama@gmail.com](mailto:dimalshaliyanagama@gmail.com)
-- 📌 linkedin - [Dimalsha Kavindi](https://www.linkedin.com/in/dimalsha-kavindi-814395210/)
+- 📌 LinkedIn: [Dimalsha Kavindi](https://www.linkedin.com/in/dimalsha-kavindi-814395210/)
 - 🌟 Passionate about developing modern web and mobile applications and continuously learning new technologies to deliver high-quality software solutions.
+
  </div>
  
  [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
