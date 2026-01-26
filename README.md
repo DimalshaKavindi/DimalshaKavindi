@@ -60,8 +60,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <h2 align="center"> Connect with me 🤝 </h2>
 
 <p align="center">
-<a href="[https://linkedin.com/in/dimalsha kavindi](https://www.linkedin.com/in/dimalsha-kavindi-814395210)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimalsha kavindi" height="30" width="40" /></a>
-<a href="[https://fb.com/dimalsha liyanagama](https://www.facebook.com/share/1Bgq73whae/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimalsha liyanagama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimalsha-kavindi-814395210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimalsha kavindi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1Bgq73whae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimalsha liyanagama" height="30" width="40" /></a>
 </p>
 </div>
 
