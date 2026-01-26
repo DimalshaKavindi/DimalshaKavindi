@@ -1,6 +1,3 @@
-
-<img width="1584" height="396" alt="Brown and White Simple Personal LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/e576f7f0-579c-4d21-aaa5-a1db4e4d97c0" />
-
 <h1 align="center">
     Hi 👋, I'm Dimalsha Kavindi
 </h1>
